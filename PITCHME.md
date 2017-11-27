@@ -1,7 +1,8 @@
 @title[Introduction]
 ## Kubernetes 101
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">An Introduction to <span style="color:#e49436">Kubernetes</span></span>
-<img align="center" src="assets/logo.svg" width="150" height="150">
+![](assets/1*2fbCZovS7I1gye1PREqkVQ.png)
+<!-- <img align="center" src="assets/1*2fbCZovS7I1gye1PREqkVQ.png" width="150" height="150"> -->
 ---
 @title[Recap]
 
