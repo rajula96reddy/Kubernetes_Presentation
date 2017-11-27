@@ -10,7 +10,7 @@ A breif recap
 ---
 @title[App]
 
-## A basic Rails App!
+#### A basic Rails App!
 ![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png)
 
 ---
