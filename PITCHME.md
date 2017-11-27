@@ -10,7 +10,7 @@ A breif recap
 ---
 @title[App]
 
-#### A basic Rails App!
+### A basic Rails App!
 ![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png)
 
 ---
@@ -32,54 +32,20 @@ A breif recap
 ## Kubernetes!! Kubernetes!! What is this?
 <!-- <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span> -->
-
-
----
-
-## Markdown Slides
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown) for details.</span>
-
-![Press Down Key](assets/down-arrow.png)
-
-
-+++
-@title[GFM]
-
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
-
-<br>
-
-The *same syntax* you use to create project   
-**READMEs** and **Wikis** for your Git repos.
+- Kubernetes is a **OPEN SOURCE** container orchestration software lead by **Google**
+- The word **Kubernetes** is a Greek work which stands for a **Ship's Captain**
+- The project focuses on building a robust platform for running thousands of containers in production.
 
 ---
-
-## Code Presenting
-## Repo Source Files
-<span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
-<span style="font-size:0.6em; color:gray">See [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting) for details.</span>
-
-![Press Down Key](assets/down-arrow.png)
-
-+++
-@title[Present From Source]
-
-#### Present Source Directly From Your Repo
-
-<br>
-
-Step through source code directly within your presentations.
-*No more switching* back and forth between your slideshow and your IDE!
-
-+++?code=src/elixir/monitor.ex&lang=elixir&title=Source: Elixir Snippets
-
-@[11-14](Elixir module-attributes as constants)
-@[22-28](Elixir with-statement for conciseness)
-@[171-177](Elixir case-statement pattern matching)
-@[179-185](Elixir pipe-mechanism for composing functions)=
-
+@title[Stats1]
+## Few Stats
+![Most Viewed Projects](assets/MostViewedProjects.png)
+<span style="font-size:0.6em; color:gray">Github Octoverse Statistics since Sep '16 to Oct '17.</span>
+---
+@title[Stats2]
+## Few Stats
+![Most Viewed Projects](assets/MostDiscussedRepos.png)
+<span style="font-size:0.6em; color:gray">Github Octoverse Statistics since Sep '16 to Oct '17.</span>
 ---
 @title[Present Static Block]
 
