@@ -40,13 +40,20 @@ A breif recap
 - There are other similar projects for container orchestration such as Docker Swarm, Mesos etc.
 
 ---
-@title[Stats]
-## Few Stats
+@title[Facts1]
+## Facts
 <img src="assets/MostViewedProjects.png" width="300" height="400">
 <img src="assets/MostDiscussedRepos.png" width="300" height="400">
 
 <span style="font-size:0.6em; color:white">Github Octoverse Statistics from Sep '16 to Oct '17.</span>
 
+---
+@title[Facts2]
+## More Facts
+<img src="assets/edX.png" width="300" height="200">
+<img src="assets/Udacity.png" width="300" height="200">
+
+#### Just an heads up about, how vast Kubernetes is!!
 ---
 @title[Basic Concepts]
 ## Concepts of Kubernetes
@@ -99,7 +106,15 @@ A breif recap
   - Azure Container Service
   - Google Kubernetes Engine
 
- And many more solutions :grinning:.
+ And many more solutions.
+---
+@title[confused]
+#### Not clear?
+![](https://media.giphy.com/media/l0HlC76xjuhQG4biU/giphy.gif)
+---
+@title[demo]
+## Demo
+
 ---
 @title[references]
 ## References
