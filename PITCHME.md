@@ -1,5 +1,3 @@
-
-
 @title[Introduction]
 The Kitchen Sink
 A GitPitch Feature Tour
