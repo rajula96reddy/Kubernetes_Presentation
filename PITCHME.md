@@ -1,20 +1,38 @@
 @title[Introduction]
-## The Kitchen Sink
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## Kubernetes 101
+##### <span style="font-family:Helvetica Neue; font-weight:bold">An Introduction to <span style="color:#e49436">Kubernetes</span></span>
+---
+@title[Recap]
+
+## Container, Docker, Kubernetes!
+A breif recap
 
 ---
-@title[Theme Switcher]
+@title[App]
 
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+## A basic Rails App!
+![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png)
 
 ---
-@title[Go Fullscreen]
+@title[Container]
 
-## Tip!
-For the *best viewing experience*   
-press **F** key to go fullscreen.
+## Containerizing the App!
+![Containerizing Phippy](assets/kubernetes-illustrated-guide-illustration-4.png)
+
+---
+
+@title[Kubernetes]
+
+## A basic Rails App!
+![Kubernetes](assets/kubernetes-illustrated-guide-illustration-5.png)
+
+---
+@title[What is Kubernetes]
+
+## Kubernetes!! Kubernetes!! What is this?
+<!-- <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
+<span style="font-size:0.6em; color:gray">Start switching themes right now!</span> -->
+
 
 ---
 
