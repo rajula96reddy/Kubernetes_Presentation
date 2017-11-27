@@ -1,6 +1,7 @@
 @title[Introduction]
 ## Kubernetes 101
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">An Introduction to <span style="color:#e49436">Kubernetes</span></span>
+<img align="center" src="assets/logo_with_border.png" width="100" height="100">
 ---
 @title[Recap]
 
@@ -17,15 +18,15 @@ A breif recap
 @title[Container]
 
 ## Containerizing the App!
-![Containerizing Phippy](assets/kubernetes-illustrated-guide-illustration-4.png)
-
+<!-- ![Containerizing Phippy](assets/kubernetes-illustrated-guide-illustration-4.png) -->
+<img src="assets/kubernetes-illustrated-guide-illustration-4.png" width="500" height="400">
 ---
 
 @title[Kubernetes]
 
 ## Kubernetes!
-![Kubernetes](assets/kubernetes-illustrated-guide-illustration-5.png)
-
+<!-- ![Kubernetes](assets/kubernetes-illustrated-guide-illustration-5.png) -->
+<img src="assets/kubernetes-illustrated-guide-illustration-5.png" width="500" height="400">
 ---
 @title[What is Kubernetes]
 
