@@ -11,8 +11,8 @@ A breif recap
 @title[App]
 
 ### A basic Rails App!
-![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png)
-
+<!-- ![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png) -->
+<img src="assets/kubernetes-illustrated-guide-illustration-3.png" width="500" height="400">
 ---
 @title[Container]
 
@@ -23,7 +23,7 @@ A breif recap
 
 @title[Kubernetes]
 
-## A basic Rails App!
+## Kubernetes!
 ![Kubernetes](assets/kubernetes-illustrated-guide-illustration-5.png)
 
 ---
@@ -32,9 +32,10 @@ A breif recap
 ## Kubernetes!! Kubernetes!! What is this?
 <!-- <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span> -->
-- Kubernetes is a **OPEN SOURCE** container orchestration software lead by **Google**
+- Kubernetes is an **OPEN SOURCE** container orchestration software started at **Google**
 - The word **Kubernetes** is a Greek work which stands for a **Ship's Captain**
 - The project focuses on building a robust platform for running thousands of containers in production.
+- There are other similar projects for container orchestration such as Docker Swarm, Mesos etc.
 
 ---
 @title[Stats]
@@ -42,7 +43,7 @@ A breif recap
 <img src="assets/MostViewedProjects.png" width="300" height="400">
 <img src="assets/MostDiscussedRepos.png" width="300" height="400">
 
-<span style="font-size:0.6em; color:black">Github Octoverse Statistics from Sep '16 to Oct '17.</span>
+<span style="font-size:0.6em; color:white">Github Octoverse Statistics from Sep '16 to Oct '17.</span>
 
 ---
 @title[Present Static Block]
