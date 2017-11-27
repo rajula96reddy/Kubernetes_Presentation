@@ -37,15 +37,13 @@ A breif recap
 - The project focuses on building a robust platform for running thousands of containers in production.
 
 ---
-@title[Stats1]
+@title[Stats]
 ## Few Stats
-![Most Viewed Projects](assets/MostViewedProjects.png)
-<span style="font-size:0.6em; color:gray">Github Octoverse Statistics since Sep '16 to Oct '17.</span>
----
-@title[Stats2]
-## Few Stats
-![Most Viewed Projects](assets/MostDiscussedRepos.png)
-<span style="font-size:0.6em; color:gray">Github Octoverse Statistics since Sep '16 to Oct '17.</span>
+<img src="assets/MostViewedProjects.png" width="300" height="400">
+<img src="assets/MostDiscussedRepos.png" width="300" height="400">
+
+<span style="font-size:0.6em; color:black">Github Octoverse Statistics from Sep '16 to Oct '17.</span>
+
 ---
 @title[Present Static Block]
 
