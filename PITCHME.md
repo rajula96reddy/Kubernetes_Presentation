@@ -76,14 +76,16 @@ A breif recap
 ## Labels
 <img src="assets/kubernetes-illustrated-guide-illustration-6.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-5.png" width="600" height="400">
 ---
 @title[pods]
 ## Pods
 <img src="assets/kubernetes-illustrated-guide-illustration-7.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-6.png" width="600" height="400">
 ---
 
@@ -91,7 +93,8 @@ A breif recap
 ## Replication Controllers
 <img src="assets/kubernetes-illustrated-guide-illustration-8.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-7.png" width="600" height="400">
 ---
 
@@ -99,7 +102,8 @@ A breif recap
 ## Services
 <img src="assets/kubernetes-illustrated-guide-illustration-9.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-8.png" width="600" height="400">
 ---
 
@@ -107,7 +111,8 @@ A breif recap
 ## Volumes
 <img src="assets/kubernetes-illustrated-guide-illustration-10.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-9.png" width="600" height="400">
 ---
 
@@ -115,7 +120,8 @@ A breif recap
 ## Namespaces
 <img src="assets/kubernetes-illustrated-guide-illustration-11.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-10.png" width="600" height="400">
 ---
 
