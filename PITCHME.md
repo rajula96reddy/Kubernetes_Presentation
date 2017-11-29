@@ -12,17 +12,20 @@ A breif recap
 ---
 @title[App]
 
-### A basic Rails App!
+### A basic App!
 <!-- ![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png) -->
 <img src="assets/kubernetes-illustrated-guide-illustration-3.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-2.png" width="600" height="400">
 ---
 @title[Container]
 
 ## Containerizing the App!
 <!-- ![Containerizing Phippy](assets/kubernetes-illustrated-guide-illustration-4.png) -->
 <img src="assets/kubernetes-illustrated-guide-illustration-4.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-3.png" width="600" height="400">
 ---
-
 @title[Kubernetes]
 
 ## Kubernetes!
@@ -68,33 +71,47 @@ A breif recap
 @title[labels]
 ## Labels
 <img src="assets/kubernetes-illustrated-guide-illustration-6.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-5.png" width="600" height="400">
 ---
-
 @title[pods]
 ## Pods
 <img src="assets/kubernetes-illustrated-guide-illustration-7.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-6.png" width="600" height="400">
 ---
 
 @title[ReplicaSets]
 ## Replication Controllers
 <img src="assets/kubernetes-illustrated-guide-illustration-8.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-7.png" width="600" height="400">
 ---
 
 @title[services]
 ## Services
 <img src="assets/kubernetes-illustrated-guide-illustration-9.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-8.png" width="600" height="400">
 ---
 
 @title[volumes]
 ## Volumes
 <img src="assets/kubernetes-illustrated-guide-illustration-10.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-9.png" width="600" height="400">
 ---
 
 @title[namespaces]
 ## Namespaces
 <img src="assets/kubernetes-illustrated-guide-illustration-11.png" width="600" height="400">
++++@title[explain]
+<img src="assets/kubernetes-illustrated-guide-diagram-10.png" width="600" height="400">
 ---
-
+@title[bye]
+## And then Phippy is happy!
+<img src="assets/kubernetes-illustrated-guide-illustration-12.png" width="600" height="400">
+---
 @title[Setting up Kubernetes]
 ## Setting up Kubernetes
 - Various methods depending on the Infrastructure
