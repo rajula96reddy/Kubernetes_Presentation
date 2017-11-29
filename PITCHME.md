@@ -42,9 +42,9 @@ A breif recap
 <!-- <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span> -->
 - Kubernetes is an **OPEN SOURCE** container orchestration software started at **Google**
-- The word **Kubernetes** is a Greek work which stands for a **Ship's Captain** |
-- The project focuses on building a robust platform for running thousands of containers in production. |
-- There are other similar projects for container orchestration such as Docker Swarm, Mesos etc. |
+- The word **Kubernetes** is a Greek work which stands for a **Ship's Captain**
+- The project focuses on building a robust platform for running thousands of containers in production.
+- There are other similar projects for container orchestration such as Docker Swarm, Mesos etc.
 
 ---
 @title[Facts1]
@@ -64,12 +64,12 @@ A breif recap
 ---
 @title[Basic Concepts]
 ## Concepts of Kubernetes
-1. Labels |
-2. Pods |
-3. Replication Controllers |
-4. Services |
-5. Volumes |
-6. Namespaces |
+1. Labels
+2. Pods
+3. Replication Controllers
+4. Services
+5. Volumes
+6. Namespaces 
 ---
 
 @title[labels]
