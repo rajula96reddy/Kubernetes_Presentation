@@ -35,9 +35,9 @@ A breif recap
 <!-- <span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span> -->
 - Kubernetes is an **OPEN SOURCE** container orchestration software started at **Google**
-- The word **Kubernetes** is a Greek work which stands for a **Ship's Captain**
-- The project focuses on building a robust platform for running thousands of containers in production.
-- There are other similar projects for container orchestration such as Docker Swarm, Mesos etc.
+- The word **Kubernetes** is a Greek work which stands for a **Ship's Captain** |
+- The project focuses on building a robust platform for running thousands of containers in production. |
+- There are other similar projects for container orchestration such as Docker Swarm, Mesos etc. |
 
 ---
 @title[Facts1]
@@ -57,12 +57,12 @@ A breif recap
 ---
 @title[Basic Concepts]
 ## Concepts of Kubernetes
-1. Labels
-2. Pods
-3. Replication Controllers
-4. Services
-5. Volumes
-6. Namespaces
+1. Labels |
+2. Pods |
+3. Replication Controllers |
+4. Services |
+5. Volumes |
+6. Namespaces |
 ---
 
 @title[labels]
@@ -111,18 +111,22 @@ A breif recap
 @title[confused]
 #### Not clear?
 ![](https://media.giphy.com/media/l0HlC76xjuhQG4biU/giphy.gif)
+Let's go into the demo
 ---
 @title[demo]
 ## Demo
-
+---
+@title[got it]
+#### Any Questions?
+![](https://media.giphy.com/media/26BRqPg05olzXG1bi/giphy.gif)
+---
+@title[Thank you.]
+# Thank You!!
+![](https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif)
 ---
 @title[references]
 ## References
 1. Presentation made using [GitPitch](https://gitpitch.com/)
 2. [Kubernetes](https://kubernetes.io/)
-3. [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
----
-@title[Get The Word Out!]
-
-## GO FOR IT.
-## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
+3. Illustrations taken from[The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+4. Tutorial followed - https://www.youtube.com/watch?v=F-DQeymA0Oc&list=PLj_IGCS9P2SkmHxS8-i24azCIGEneJQrA&index=6
