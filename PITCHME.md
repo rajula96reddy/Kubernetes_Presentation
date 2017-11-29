@@ -16,7 +16,8 @@ A breif recap
 <!-- ![Phippy](assets/kubernetes-illustrated-guide-illustration-3.png) -->
 <img src="assets/kubernetes-illustrated-guide-illustration-3.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-2.png" width="600" height="400">
 ---
 @title[Container]
@@ -25,7 +26,8 @@ A breif recap
 <!-- ![Containerizing Phippy](assets/kubernetes-illustrated-guide-illustration-4.png) -->
 <img src="assets/kubernetes-illustrated-guide-illustration-4.png" width="600" height="400">
 
-+++@title[explain]
++++
+@title[explain]
 <img src="assets/kubernetes-illustrated-guide-diagram-3.png" width="600" height="400">
 ---
 @title[Kubernetes]
