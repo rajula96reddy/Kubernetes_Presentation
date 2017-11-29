@@ -111,6 +111,7 @@ A breif recap
 @title[confused]
 #### Not clear?
 ![](https://media.giphy.com/media/l0HlC76xjuhQG4biU/giphy.gif)
+
 Let's go into the demo
 ---
 @title[demo]
@@ -118,7 +119,7 @@ Let's go into the demo
 ---
 @title[got it]
 #### Any Questions?
-![](https://media.giphy.com/media/26BRqPg05olzXG1bi/giphy.gif)
+<img src="https://media.giphy.com/media/26BRqPg05olzXG1bi/giphy.gif" width="400" height="400">
 ---
 @title[Thank you.]
 # Thank You!!
